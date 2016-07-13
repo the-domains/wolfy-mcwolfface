@@ -1,0 +1,14 @@
+layout_spectrum: 0.7629054256249219
+typography_spectrum: 0.006372724659740925
+color:
+  brandStrength: 0.9332456525880843
+  lightness: 0.3693972686305642
+  saturation: 0.2640745881944895
+  rhythmicContrast: 0.2585471263155341
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: Wolfy McWolfFace
